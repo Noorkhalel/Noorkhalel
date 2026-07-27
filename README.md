@@ -1,8 +1,8 @@
 <!--
   ╭──────────────────────────────────────────────╮
   │  GitHub profile README for @noorkhalel       │
-  │  Fill in the TODO links, then commit as      │
-  │  README.md in a repo named "noorkhalel".     │
+  │  Commit this file as README.md in a repo     │
+  │  named "noorkhalel".                         │
   ╰──────────────────────────────────────────────╯
 -->
 
@@ -10,15 +10,15 @@
 
 # Hi, I'm Noor Khalel 👋
 
-<!-- Animated tagline (auto-renders on GitHub, no setup needed) -->
+<!-- Animated tagline -->
 
 <a href="https://github.com/noorkhalel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=520&lines=Front-End+Developer+from+Palestine+%F0%9F%87%B5%F0%9F%87%B8;Turning+ideas+into+interfaces;Angular+%7C+React+%7C+everything+in+between" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=520&lines=Front-End+Developer+from+Palestine+%F0%9F%87%B5%F0%9F%87%B8;Turning+ideas+into+interfaces;Angular+%7C+React+%7C+everything+in+between" alt="Animated typing tagline" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=noorkhalel&label=Profile%20views&color=2DD4BF&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=noorkhalel&label=Profile%20views&color=2DD4BF&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -69,29 +69,17 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=noorkhalel&show_icons=true&hide_border=true&bg_color=00000000&title_color=2DD4BF&icon_color=2DD4BF&text_color=808080" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorkhalel&layout=compact&hide_border=true&bg_color=00000000&title_color=2DD4BF&text_color=808080" alt="top languages" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=noorkhalel&hide_border=true&background=00000000&stroke=808080&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=808080" alt="streak" />
-
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noorkhalel/noorkhalel/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noorkhalel/noorkhalel/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/noorkhalel/noorkhalel/output/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noorkhalel/noorkhalel/main/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noorkhalel/noorkhalel/main/snake-light.svg" />
+  <img
+    alt="Snake eating my GitHub contributions"
+    src="https://raw.githubusercontent.com/noorkhalel/noorkhalel/main/snake-light.svg"
+  />
 </picture>
 
 </div>
@@ -100,13 +88,19 @@
 
 ### 🤝 Connect with me
 
-<!-- TODO: replace the # and placeholder email with your real links, then delete this comment -->
-
 <div align="center">
 
-<a href="[#](https://www.linkedin.com/in/noorkhalel/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:noorkhslil1@gmail..com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/noorkhalel/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:Noorkhslil1@gmail.co">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
+
+<br/>
 
 <div align="center">
   <sub>Thanks for stopping by ✨</sub>
