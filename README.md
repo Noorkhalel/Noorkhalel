@@ -103,5 +103,5 @@
 <br/>
 
 <div align="center">
-  <sub>Thanks for stopping by ✨</sub>
+  <sub>Thanks for stopping</sub>
 </div>
